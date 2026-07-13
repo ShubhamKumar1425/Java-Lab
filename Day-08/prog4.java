@@ -4,7 +4,6 @@ class NewThread extends Thread{
     System.out.println("Child Thread: " + this);
     this.start();
 }
-
 public void run(){
     try{
         for(int i = 5; i > 0; i--){
