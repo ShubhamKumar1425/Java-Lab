@@ -25,4 +25,3 @@ public class prog6 {
         System.out.println("Right Diagonal Sum: " + rightDiagonalSum);
     }
 }    
-
